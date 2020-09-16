@@ -8,8 +8,8 @@ Read the article in [Medium](https://towardsdatascience.com/a-comprehensive-guid
 
 Notebook available at
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/Natural-Language-Processing-NLP/blob/master/Neural%20Machine%20Translation/1.%20Seq2Seq%20%5BEnc%20%2B%20Dec%5D%20Model%20for%20Neural%20Machine%20Translation%20(Without%20Attention%20Mechanism).ipynb)
+## 1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/Natural-Language-Processing-NLP/blob/master/Neural%20Machine%20Translation/1.%20Seq2Seq%20%5BEnc%20%2B%20Dec%5D%20Model%20for%20Neural%20Machine%20Translation%20(Without%20Attention%20Mechanism).ipynb)
 
-[Kaggle](https://www.kaggle.com/balakrishcodes/seq2seq-model-for-neural-machine-translation#12.-Seq2Seq-Model-Inference)
+## 2. [Kaggle](https://www.kaggle.com/balakrishcodes/seq2seq-model-for-neural-machine-translation#12.-Seq2Seq-Model-Inference)
 
 <br />
