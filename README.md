@@ -11,4 +11,4 @@ Read the article in [Medium](https://towardsdatascience.com/a-comprehensive-guid
 <br />
 
 ## LSTM - Under the Hood 
-<img align="left" src="https://miro.medium.com/max/1000/1*cbfXVVo2Pdbu7r29ThhsrA.png" width="450"/> <img align="left" src="https://miro.medium.com/max/700/1*5XuNXYcpOw5rwu4LirCKtw.png" width="450"/> 
+<img align="left" src="https://miro.medium.com/max/1000/1*cbfXVVo2Pdbu7r29ThhsrA.png" width="475"/> <img align="left" src="https://miro.medium.com/max/700/1*5XuNXYcpOw5rwu4LirCKtw.png" width="475"/> 
