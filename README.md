@@ -9,3 +9,4 @@ Read the article in [Medium](https://towardsdatascience.com/a-comprehensive-guid
 > ## 2. [Kaggle](https://www.kaggle.com/balakrishcodes/seq2seq-model-for-neural-machine-translation#12.-Seq2Seq-Model-Inference)
 
 <br />
+<img src="https://miro.medium.com/max/1000/1*cbfXVVo2Pdbu7r29ThhsrA.png" width="425"/> <img src="https://miro.medium.com/max/700/1*5XuNXYcpOw5rwu4LirCKtw.png" width="425"/> 
