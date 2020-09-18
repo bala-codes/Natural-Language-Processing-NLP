@@ -10,3 +10,5 @@ Read the article in [Medium](https://towardsdatascience.com/a-comprehensive-guid
 
 <br />
 <img src="https://miro.medium.com/max/1000/1*cbfXVVo2Pdbu7r29ThhsrA.png" width="425"/> <img src="https://miro.medium.com/max/700/1*5XuNXYcpOw5rwu4LirCKtw.png" width="425"/> 
+![alt-text-1](https://miro.medium.com/max/1000/1*cbfXVVo2Pdbu7r29ThhsrA.png "title-1") ![alt-text-2](image2.png "title-2")
+
