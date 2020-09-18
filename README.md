@@ -13,6 +13,6 @@ Read the article in [Medium](https://towardsdatascience.com/a-comprehensive-guid
 ## LSTM - Under the Hood 
 <img align="left" src="https://miro.medium.com/max/1000/1*cbfXVVo2Pdbu7r29ThhsrA.png" width="500"/> <img align="left" src="https://miro.medium.com/max/700/1*5XuNXYcpOw5rwu4LirCKtw.png" width="500"/> 
 
-| [![LSTM - Inner Workings](https://miro.medium.com/max/1000/1*cbfXVVo2Pdbu7r29ThhsrA.png)](LSTM - Inner Workings)  | [![LSTM - Gates](https://miro.medium.com/max/700/1*5XuNXYcpOw5rwu4LirCKtw.png)](LSTM - Gates) |
+| [![LSTM - Inner Workings](https://miro.medium.com/max/1000/1*cbfXVVo2Pdbu7r29ThhsrA.png)]()  | [![LSTM - Gates](https://miro.medium.com/max/700/1*5XuNXYcpOw5rwu4LirCKtw.png)]() |
 |:---:|:---:|
 | LSTM - Inner Workings | LSTM - Gates |
