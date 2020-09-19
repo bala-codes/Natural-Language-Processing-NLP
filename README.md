@@ -11,7 +11,9 @@ Read the article in [Medium](https://towardsdatascience.com/a-comprehensive-guid
 <br />
 
 ## LSTM - Under the Hood 
-<h2 class="text-align:center">LSTM - Under the Hood</h2>
+<center>LSTM - Under the Hood</center>
+## <center>LSTM - Under the Hood</center>
+
 
 | [![LSTM - Inner Workings](https://miro.medium.com/max/1000/1*cbfXVVo2Pdbu7r29ThhsrA.png)]()  | [![LSTM - Gates](https://miro.medium.com/max/700/1*5XuNXYcpOw5rwu4LirCKtw.png)]() |
 |:---:|:---:|
