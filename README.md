@@ -28,6 +28,7 @@ Read the article in [Medium](https://towardsdatascience.com/a-comprehensive-guid
 <br />
 
 <div align="center"><h2>Decoder</h2></div>
+
 | [![](https://miro.medium.com/max/700/1*FtDDCniBMb8HXYEM6PRohQ.png)]()  | [![](https://miro.medium.com/max/1000/1*UPyGSZSuIQ52IjyFdPpm6A.png)]() |
 |:---:|:---:|
 | Decoder Architecture | Decoder with Batch |
@@ -35,6 +36,7 @@ Read the article in [Medium](https://towardsdatascience.com/a-comprehensive-guid
 <br />
 
 <div align="center"><h2>Seq2Seq</h2></div>
+
 | [![](https://miro.medium.com/max/1000/1*d9kP4XoWGnIcmyhX-g4Xvw.png)]()  | [![](https://miro.medium.com/max/1000/1*7SVU_REkIUALmegTbFI9Fw.png)]() |
 |:---:|:---:|
 | Seq2Seq Architecture | Seq2Seq with Batch |
