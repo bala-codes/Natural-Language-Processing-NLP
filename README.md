@@ -18,7 +18,7 @@ Read the article in [Medium](https://towardsdatascience.com/a-comprehensive-guid
 <br />
 
 ## Encoder
-| [![](https://miro.medium.com/max/1000/1*cbfXVVo2Pdbu7r29ThhsrA.png)]()  | [![LSTM - Gates](https://miro.medium.com/max/700/1*5XuNXYcpOw5rwu4LirCKtw.png)]() |
+| [![](https://miro.medium.com/max/1000/1*aNcybCTdPlrXsCwIo1OfTg.png)]()  | [![](https://miro.medium.com/max/1000/1*xP8MgIfKwjStFDUo0_W3QA.png)]() |
 |:---:|:---:|
-| LSTM - Inner Workings | LSTM - Gates |
+| Encoder Architecture | Encoder with Batch |
 
