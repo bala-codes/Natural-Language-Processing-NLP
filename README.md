@@ -10,7 +10,6 @@ Read the article in [Medium](https://towardsdatascience.com/a-comprehensive-guid
 
 <br />
 
-## LSTM - Under the Hood 
 <div align="center"><h2>LSTM - Under the Hood</h2></div>
 
 | [![LSTM - Inner Workings](https://miro.medium.com/max/1000/1*cbfXVVo2Pdbu7r29ThhsrA.png)]()  | [![LSTM - Gates](https://miro.medium.com/max/700/1*5XuNXYcpOw5rwu4LirCKtw.png)]() |
@@ -19,21 +18,23 @@ Read the article in [Medium](https://towardsdatascience.com/a-comprehensive-guid
 
 <br />
 
-## Encoder
+
+<div align="center"><h2>Encoder</h2></div>
+
 | [![](https://miro.medium.com/max/1000/1*aNcybCTdPlrXsCwIo1OfTg.png)]()  | [![](https://miro.medium.com/max/1000/1*xP8MgIfKwjStFDUo0_W3QA.png)]() |
 |:---:|:---:|
 | Encoder Architecture | Encoder with Batch |
 
 <br />
 
-## Decoder
+<div align="center"><h2>Decoder</h2></div>
 | [![](https://miro.medium.com/max/700/1*FtDDCniBMb8HXYEM6PRohQ.png)]()  | [![](https://miro.medium.com/max/1000/1*UPyGSZSuIQ52IjyFdPpm6A.png)]() |
 |:---:|:---:|
 | Decoder Architecture | Decoder with Batch |
 
 <br />
 
-## Seq2Seq
+<div align="center"><h2>Seq2Seq</h2></div>
 | [![](https://miro.medium.com/max/1000/1*d9kP4XoWGnIcmyhX-g4Xvw.png)]()  | [![](https://miro.medium.com/max/1000/1*7SVU_REkIUALmegTbFI9Fw.png)]() |
 |:---:|:---:|
 | Seq2Seq Architecture | Seq2Seq with Batch |
